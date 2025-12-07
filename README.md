@@ -117,7 +117,3 @@ This model was selected for deployment in the Streamlit application.
 
 ## ✨ Quote
 “Deep Learning is not about making computers think — it’s about teaching them to see.”
-
-
-## 📁 Repository Structure
-
